@@ -1,0 +1,1 @@
+# Template for creating Rust Azure Functions
